@@ -1,0 +1,3 @@
+var targetStackPanel = targetTextBox.Parent as StackPanel;
+var targetNameLabel = targetStackPanel.Children[0] as Label;
+var targetPriceLabel = targetStackPanel.Children[1] as Label;
